@@ -1,0 +1,14 @@
+.appFooter {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 2rem;
+  display: flex;
+  background-color: #eee;
+  align-items: center;
+  justify-content: center;
+}
+
+.appFooter .appVersion {
+  color: rgb(155, 154, 154);
+}
